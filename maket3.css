@@ -1,0 +1,24 @@
+#container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+aside {
+    width: 200px;
+    float: right:
+}
+
+nav {
+    width: 200px;
+    float: left;
+}
+
+main {
+    float: left;
+    margin-left: 200px; }
+
+footer {
+    clear: left;
+}
+
+

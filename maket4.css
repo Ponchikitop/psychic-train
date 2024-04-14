@@ -1,0 +1,33 @@
+#container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+aside {
+    width: 24%;
+    float: right:
+}
+
+main {
+    float: left;
+    margin-left: 25%;
+    width: 75%;
+}
+
+footer {
+    clear: left;
+}
+
+nav {
+    width: 25%;
+    float: left;
+    margin-left: -100%;
+}
+
+footer {
+
+}
+
+#content {
+    margin-right: 34%;
+}

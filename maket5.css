@@ -1,0 +1,46 @@
+#container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+aside {
+    width: 24%;
+    float: left;
+    margin-left: -34%;
+}
+
+main {
+    float: left;
+    margin-left: 25%;
+    width: 75%;
+}
+
+footer {
+    clear: left;
+}
+
+nav {
+    width: 25%;
+    float: left;
+    margin-left: -100%;
+}
+
+footer {
+
+}
+
+
+
+header {
+    position: fixed;
+    top: 0px;
+}
+
+#content {
+    float: left;
+    width: 66%;
+}
+
+aside {
+
+}
